@@ -1,5 +1,11 @@
 package com.internetExplorers.yuconzApp.user;
 
+/**
+ * 
+ * Review Record Class used to create objects for use in the program
+ * @author Jack Oliver
+ * @version 0.1
+ */
 public class ReviewRecord {
 
 	private int rID;

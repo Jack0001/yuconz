@@ -1,8 +1,7 @@
 /**
  * 
  * AuthenticationServer authenticates users.
- * @author Jordan Montford Robinson
- * @version 0.1
+ * @author Jack Oliver
  */
 package com.internetExplorers.yuconzApp;
 

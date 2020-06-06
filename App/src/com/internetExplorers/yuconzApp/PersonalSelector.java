@@ -20,6 +20,11 @@ import java.awt.List;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
+/**
+ * 
+ * Personal selector form for selecting a sepecific personal record to read or edit.
+ * @author Jack Oliver
+ */
 public class PersonalSelector {
 
 	private JFrame frame;

@@ -1,8 +1,8 @@
 /**
  * 
  * MainController is the container for all objects used in the app including users, authentication server and authorisation.
- * The GUI will interact solely with the MainController.
- * @author Jordan Montford Robinson
+ * The GUI will interact solely with the MainController, with the forms as a proxy.
+ * @author Jack Oliver
  * @version 0.1
  */
 package com.internetExplorers.yuconzApp;

@@ -23,6 +23,11 @@ import javax.swing.JOptionPane.*;
 import static javax.swing.JOptionPane.showMessageDialog;
 import javax.swing.JTextPane;
 
+/**
+ * 
+ * Review form.
+ * @author Jack Oliver
+ */
 public class Review {
 
 	private JFrame frmReview;

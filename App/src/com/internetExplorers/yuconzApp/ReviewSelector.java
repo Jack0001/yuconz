@@ -21,6 +21,11 @@ import javax.swing.JTable;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.JScrollPane;
 
+/**
+ * 
+ * Review Selector form for selecting specific records to read or edit.
+ * @author Jack Oliver
+ */
 public class ReviewSelector {
 
 	private JFrame frame;

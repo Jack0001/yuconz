@@ -23,6 +23,12 @@ import java.util.ArrayList;
 
 import static javax.swing.JOptionPane.showMessageDialog;
 
+/**
+ * 
+ * Options form.
+ * @author Jack Oliver
+ */
+
 public class Options {
 
 	private String username;

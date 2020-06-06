@@ -1,5 +1,11 @@
 package com.internetExplorers.yuconzApp.user;
 
+/**
+ * 
+ * Objective Class used to create objects for use in the program
+ * @author Jack Oliver
+ * @version 0.1
+ */
 public class Objective {
 	private int oId;
 	private String username;

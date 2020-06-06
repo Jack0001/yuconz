@@ -1,11 +1,11 @@
+
+package com.internetExplorers.yuconzApp.user;
 /**
  * 
- * User Class
- * @author Jordan Montford Robinson
+ * User Class used to create objects for use in the program
+ * @author Jack Oliver
  * @version 0.1
  */
-package com.internetExplorers.yuconzApp.user;
-
 public class User {
 
 	private String username;

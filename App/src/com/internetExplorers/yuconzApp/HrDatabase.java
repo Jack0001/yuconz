@@ -1,8 +1,7 @@
 /**
  * 
- * HR DataBase
- * @author Jordan Montford Robinson
- * @version 0.1
+ * Hr Database methods
+ * @author Jack Oliver
  */
 package com.internetExplorers.yuconzApp;
 

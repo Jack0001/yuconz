@@ -17,6 +17,12 @@ import java.util.ArrayList;
 import java.awt.event.ActionEvent;
 import static javax.swing.JOptionPane.showMessageDialog;
 
+
+/**
+ * 
+ * Personal records form.
+ * @author Jack Oliver
+ */
 public class Personal {
 
 	private JFrame frmPersonal;

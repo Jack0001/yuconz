@@ -14,6 +14,12 @@ import java.awt.event.ActionEvent;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
+/**
+ * 
+ * Login server.
+ * @author Jack Oliver
+ */
+
 public class Login {
 
 	private JFrame frmLogin;

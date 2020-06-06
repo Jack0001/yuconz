@@ -2,6 +2,13 @@ package com.internetExplorers.yuconzApp;
 
 import sql.database.AccessRightsTableMethods;
 
+/**
+ * 
+ * Authorisation server used to check if users have the correct authorisation
+ * for the actions they want to do.
+ * @author Jack Oliver
+ */
+
 public class Authorisation {
 
 	private AccessRightsTableMethods accessRightsTable;
